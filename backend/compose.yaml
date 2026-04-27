@@ -1,0 +1,9 @@
+services:
+  db:
+    image: "postgres:latest"
+    environment:
+      - "POSTGRES_DB=devite"
+      - "POSTGRES_PASSWORD=password"
+      - "POSTGRES_USER=user"
+    ports:
+      - "5435:5432"
