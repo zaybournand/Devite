@@ -1,4 +1,4 @@
-package com.example.Devite;
+package com.devite.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DeviteApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DeviteApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(DeviteApplication.class, args);
+    }
 
 }
