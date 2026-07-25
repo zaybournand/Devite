@@ -1,8 +1,0 @@
-/Users/zaynebournand/Devite/backend/src/main/java/com/devite/backend/DeviteApplication.java
-/Users/zaynebournand/Devite/backend/src/main/java/com/devite/backend/config/SecurityConfig.java
-/Users/zaynebournand/Devite/backend/src/main/java/com/devite/backend/user/controller/UserController.java
-/Users/zaynebournand/Devite/backend/src/main/java/com/devite/backend/user/dto/UserRequestDTO.java
-/Users/zaynebournand/Devite/backend/src/main/java/com/devite/backend/user/dto/UserResponseDTO.java
-/Users/zaynebournand/Devite/backend/src/main/java/com/devite/backend/user/model/User.java
-/Users/zaynebournand/Devite/backend/src/main/java/com/devite/backend/user/repository/UserRepository.java
-/Users/zaynebournand/Devite/backend/src/main/java/com/devite/backend/user/service/UserService.java
