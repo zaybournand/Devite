@@ -1,1 +1,8 @@
+com/devite/backend/user/controller/UserController.class
+com/devite/backend/user/dto/UserResponseDTO.class
+com/devite/backend/user/dto/UserRequestDTO.class
+com/devite/backend/user/repository/UserRepository.class
 com/devite/backend/DeviteApplication.class
+com/devite/backend/user/service/UserService.class
+com/devite/backend/user/model/User.class
+com/devite/backend/config/SecurityConfig.class
