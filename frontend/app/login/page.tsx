@@ -44,7 +44,6 @@ export default function SignIn() {
           email: res.data.email || email,
           username: res.data.username || "",
           id: res.data.id,
-          role: res.data.role 
       };
       
       login(userToSave);
